@@ -1,3 +1,4 @@
 pillow
 ipython
 networkx
+matplotlib
